@@ -4,5 +4,7 @@ description: Helm chart for search-service
 type: application
 version: 2.0.2
 
-appVersion: sha-fbb1686
+
+
+appVersion: sha-4df3669
 
