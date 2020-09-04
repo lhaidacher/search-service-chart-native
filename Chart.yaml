@@ -3,5 +3,4 @@ name: search-service-chart
 description: Helm chart for search-service
 type: application
 version: 2.0.2
-
 appVersion: 'sha-b5de211'
